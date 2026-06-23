@@ -1,0 +1,24 @@
+# Dossiers générés automatiquement par .NET
+bin/
+obj/
+
+# Dossier de Visual Studio (si jamais)
+.vs/
+
+# Fichiers temporaires
+*.user
+*.cache
+*.log
+
+# Fichiers de build
+*.dll
+*.exe
+*.pdb
+
+# Dossiers de build supplémentaires
+Debug/
+Release/
+
+# Fichiers système
+Thumbs.db
+Desktop.ini
