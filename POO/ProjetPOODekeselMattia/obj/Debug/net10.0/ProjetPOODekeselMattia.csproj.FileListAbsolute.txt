@@ -1,0 +1,14 @@
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\bin\Debug\net10.0\ProjetPOODekeselMattia.exe
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\bin\Debug\net10.0\ProjetPOODekeselMattia.deps.json
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\bin\Debug\net10.0\ProjetPOODekeselMattia.runtimeconfig.json
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\bin\Debug\net10.0\ProjetPOODekeselMattia.dll
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\bin\Debug\net10.0\ProjetPOODekeselMattia.pdb
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ProjetPOODekeselMattia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ProjetPOODekeselMattia.AssemblyInfoInputs.cache
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ProjetPOODekeselMattia.AssemblyInfo.cs
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ProjetPOODekeselMattia.csproj.CoreCompileInputs.cache
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ProjetPOODekeselMattia.dll
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\refint\ProjetPOODekeselMattia.dll
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ProjetPOODekeselMattia.pdb
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ProjetPOODekeselMattia.genruntimeconfig.cache
+C:\Users\zedou\Desktop\POO\ProjetPOODekeselMattia\obj\Debug\net10.0\ref\ProjetPOODekeselMattia.dll
